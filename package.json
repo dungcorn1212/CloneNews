@@ -1,0 +1,32 @@
+{
+  "name": "vnexpress_clone",
+  "version": "1.0.0",
+  "description": "clone trang bao",
+  "main": "index.js",
+  "scripts": {
+    "start": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dungcorn1212/CloneNews.git"
+  },
+  "keywords": [
+    "vnex",
+    "kenh",
+    "tin",
+    "tuc"
+  ],
+  "author": "Dung Ngo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dungcorn1212/CloneNews/issues"
+  },
+  "homepage": "https://github.com/dungcorn1212/CloneNews#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
